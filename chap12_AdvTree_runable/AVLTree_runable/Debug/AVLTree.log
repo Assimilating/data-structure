@@ -1,0 +1,75 @@
+﻿生成启动时间为 2017/11/29 23:41:07。
+     1>项目“C:\Users\lenovo\Desktop\数据结构代码\chap12_AdvTree_runable\AVLTree_runable\AVLTree.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\visualstudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Example.cpp
+         Example.cpp
+     1>c:\users\lenovo\desktop\数据结构代码\chap12_advtree_runable\avltree_runable\avltree.h(21): warning C4812: 过时的声明样式: 请改用“avlTree<T>::avlTree”
+     1>c:\users\lenovo\desktop\数据结构代码\chap12_advtree_runable\avltree_runable\avltree.h(23): warning C4812: 过时的声明样式: 请改用“avlTree<T>::avlTree”
+     1>c:\users\lenovo\desktop\数据结构代码\chap12_advtree_runable\avltree_runable\avltree.h(21): warning C4812: 过时的声明样式: 请改用“avlTree<T>::avlTree”
+                 with
+                 [
+                     T=int
+                 ]
+                 c:\users\lenovo\desktop\数据结构代码\chap12_advtree_runable\avltree_runable\avltree.h(21): 编译类 模板 成员函数“avlTree<T>::avlTree(void)”时
+                 with
+                 [
+                     T=int
+                 ]
+                 c:\users\lenovo\desktop\数据结构代码\chap12_advtree_runable\avltree_runable\example.cpp(19): 参见对正在编译的函数 模板 实例化“avlTree<T>::avlTree(void)”的引用
+                 with
+                 [
+                     T=int
+                 ]
+                 c:\users\lenovo\desktop\数据结构代码\chap12_advtree_runable\avltree_runable\example.cpp(19): 参见对正在编译的类 模板 实例化“avlTree<T>”的引用
+                 with
+                 [
+                     T=int
+                 ]
+     1>c:\users\lenovo\desktop\数据结构代码\chap12_advtree_runable\avltree_runable\avltree.h(21): warning C4812: 过时的声明样式: 请改用“avlTree<T>::avlTree”
+                 with
+                 [
+                     T=char
+                 ]
+                 c:\users\lenovo\desktop\数据结构代码\chap12_advtree_runable\avltree_runable\avltree.h(21): 编译类 模板 成员函数“avlTree<T>::avlTree(void)”时
+                 with
+                 [
+                     T=char
+                 ]
+                 c:\users\lenovo\desktop\数据结构代码\chap12_advtree_runable\avltree_runable\example.cpp(51): 参见对正在编译的函数 模板 实例化“avlTree<T>::avlTree(void)”的引用
+                 with
+                 [
+                     T=char
+                 ]
+                 c:\users\lenovo\desktop\数据结构代码\chap12_advtree_runable\avltree_runable\example.cpp(51): 参见对正在编译的类 模板 实例化“avlTree<T>”的引用
+                 with
+                 [
+                     T=char
+                 ]
+     1>c:\users\lenovo\desktop\数据结构代码\chap12_advtree_runable\avltree_runable\avltree.h(21): warning C4812: 过时的声明样式: 请改用“avlTree<T>::avlTree”
+                 with
+                 [
+                     T=float
+                 ]
+                 c:\users\lenovo\desktop\数据结构代码\chap12_advtree_runable\avltree_runable\avltree.h(21): 编译类 模板 成员函数“avlTree<T>::avlTree(void)”时
+                 with
+                 [
+                     T=float
+                 ]
+                 c:\users\lenovo\desktop\数据结构代码\chap12_advtree_runable\avltree_runable\example.cpp(83): 参见对正在编译的函数 模板 实例化“avlTree<T>::avlTree(void)”的引用
+                 with
+                 [
+                     T=float
+                 ]
+                 c:\users\lenovo\desktop\数据结构代码\chap12_advtree_runable\avltree_runable\example.cpp(83): 参见对正在编译的类 模板 实例化“avlTree<T>”的引用
+                 with
+                 [
+                     T=float
+                 ]
+       Link:
+         C:\visualstudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\AVLTree.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug\AVLTree.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\AVLTree.lib" /MACHINE:X86 /SAFESEH .\Debug\Example.obj
+         AVLTree.vcxproj -> C:\Users\lenovo\Desktop\数据结构代码\chap12_AdvTree_runable\AVLTree_runable\.\Debug\AVLTree.exe
+     1>已完成生成项目“C:\Users\lenovo\Desktop\数据结构代码\chap12_AdvTree_runable\AVLTree_runable\AVLTree.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.89

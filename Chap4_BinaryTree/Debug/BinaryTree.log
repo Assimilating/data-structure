@@ -1,0 +1,188 @@
+﻿生成启动时间为 2017/11/22 1:30:41。
+     1>项目“C:\Users\lenovo\Desktop\数据结构代码\Chap4_BinaryTree\BinaryTree.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\visualstudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\BinaryTree.pch" /Fo".\Debug\\" /Fd".\Debug\vc110.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt BinarySearchTree.cpp BinaryTree.cpp BinaryTree1.cpp BinaryTreeNode.cpp BinaryTreeView.cpp HuffmanTree.cpp HuffmanTreeNode.cpp
+         BinaryTreeView.cpp
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.h(22): error C2649: “typename”: 不是“class”
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(13): error C2059: 语法错误:“;”
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19): error C2653: “CBinaryTreeView”: 不是类或命名空间名称
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19): error C2143: 语法错误 : 缺少“>”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19): error C2039: “CreateObject”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19): error C2065: “CreateObject”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19): error C2039: “_GetBaseClass”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19): error C2065: “_GetBaseClass”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19): error C2039: “GetThisClass”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19): error C2039: “classCBinaryTreeView”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19): error C2039: “GetRuntimeClass”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(21): error C2039: “GetMessageMap”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(21): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(21): error C2039: “GetThisMessageMap”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(23): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(23): error C2065: “OnCreateTree”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(23): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(24): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(24): error C2065: “OnCreateThreadTree”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(24): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(25): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(25): error C2065: “OnInorderTraverseThreadtree”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(25): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(26): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(26): error C2065: “OnInsertNode”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(26): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(27): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(27): error C2065: “OnBstAddnode”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(27): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(28): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(28): error C2065: “OnBstDeletenode”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(28): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(29): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(29): error C2065: “OnTraverseBsttree”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(29): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(30): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(30): error C2065: “OnInsertheapnode”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(30): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(31): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(31): error C2065: “OnDeleteheapnode”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(31): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(32): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(32): error C2065: “OnMaxheapTest”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(32): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(33): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(33): error C2065: “OnDeleteHeapnode”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(33): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(36): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(36): error C3867: “CView::OnFilePrint”: 函数调用缺少参数列表；请使用“&CView::OnFilePrint”创建指向成员的指针
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(36): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(37): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(37): error C3867: “CView::OnFilePrint”: 函数调用缺少参数列表；请使用“&CView::OnFilePrint”创建指向成员的指针
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(37): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(38): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(38): error C3867: “CView::OnFilePrintPreview”: 函数调用缺少参数列表；请使用“&CView::OnFilePrintPreview”创建指向成员的指针
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(38): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(39): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(39): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(39): error C2653: “TheBaseClass”: 不是类或命名空间名称
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(39): error C2065: “_messageEntries”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(44): error C2039: “{ctor}”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(45): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(47): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(49): error C2039: “{dtor}”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(50): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(53): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(55): error C2039: “PreCreateWindow”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(56): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(61): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(66): error C2039: “OnDraw”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(67): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(69): error C2065: “THIS_FILE”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(69): error C2143: 语法错误 : 缺少“,”(在“)”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(71): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(76): error C2039: “OnPreparePrinting”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(77): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(80): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(82): error C2039: “OnBeginPrinting”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(82): error C2059: 语法错误:“)”
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(83): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(85): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(87): error C2039: “OnEndPrinting”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(87): error C2059: 语法错误:“)”
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(88): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(90): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(96): error C2039: “AssertValid”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(97): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(99): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(101): error C2039: “Dump”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(102): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(104): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(106): error C2039: “GetDocument”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(107): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(110): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(116): error C2039: “OnCreateTree”: 不是“CBinaryTreeView”的成员
+                 c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(19) : 参见“CBinaryTreeView”的声明
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(117): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(119): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(120): error C2065: “EmptyTree”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(120): error C2143: 语法错误 : 缺少“,”(在“)”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.cpp(120): fatal error C1003: 错误计数超过 100；正在停止编译
+         BinaryTree.cpp
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytreeview.h(22): error C2649: “typename”: 不是“class”
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(14): error C2059: 语法错误:“;”
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(20): error C2143: 语法错误 : 缺少“>”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(20): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(22): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(22): error C2065: “OnAppAbout”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(22): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(27): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(27): error C3867: “CWinApp::OnFileNew”: 函数调用缺少参数列表；请使用“&CWinApp::OnFileNew”创建指向成员的指针
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(27): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(28): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(28): error C3867: “CWinApp::OnFileOpen”: 函数调用缺少参数列表；请使用“&CWinApp::OnFileOpen”创建指向成员的指针
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(28): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(30): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(30): error C3867: “CWinApp::OnFilePrintSetup”: 函数调用缺少参数列表；请使用“&CWinApp::OnFilePrintSetup”创建指向成员的指针
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(30): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(31): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(31): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(31): error C2653: “TheBaseClass”: 不是类或命名空间名称
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(31): error C2065: “_messageEntries”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(37): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(40): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(51): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(80): error C2653: “CBinaryTreeView”: 不是类或命名空间名称
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(80): error C3861: “GetThisClass”: 找不到标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(80): error C2143: 语法错误 : 缺少“,”(在“)”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(96): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(103): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(109): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(124): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(126): error C2653: “CAboutDlg”: 不是类或命名空间名称
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(127): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(130): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(132): error C2653: “CAboutDlg”: 不是类或命名空间名称
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(133): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(137): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(139): error C2653: “CAboutDlg”: 不是类或命名空间名称
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(139): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(143): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(143): error C2143: 语法错误 : 缺少“,”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(143): error C2653: “TheBaseClass”: 不是类或命名空间名称
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(143): error C2065: “_messageEntries”: 未声明的标识符
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(147): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(150): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(155): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>c:\users\lenovo\desktop\数据结构代码\chap4_binarytree\binarytree.cpp(155): fatal error C1004: 发现意外的文件尾
+         正在生成代码...
+         正在编译...
+         BinarySearchTree.cpp
+         正在生成代码...
+         正在编译...
+         HuffmanTreeNode.cpp
+         HuffmanTree.cpp
+         BinaryTreeNode.cpp
+         BinaryTree1.cpp
+         正在生成代码...
+     1>已完成生成项目“C:\Users\lenovo\Desktop\数据结构代码\Chap4_BinaryTree\BinaryTree.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:15.93

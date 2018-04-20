@@ -1,0 +1,13 @@
+﻿生成启动时间为 2017/12/30 10:46:10。
+     1>项目“C:\Users\lenovo\Desktop\数据结构代码\Chap8_ExtSort_runable\ReplaceSelection\replaceSelection.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\visualstudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt replaceSelection.cpp
+         replaceSelection.cpp
+     1>c:\users\lenovo\desktop\数据结构代码\chap8_extsort_runable\replaceselection\replaceselection.cpp(10): error C2872: “less”: 不明确的符号
+                 可能是“c:\users\lenovo\desktop\数据结构代码\chap8_extsort_runable\replaceselection\replaceselection.h(15) : bool less(Elem,Elem)”
+                 或       “c:\visualstudio\vc\include\xstddef(176) : std::less”
+     1>已完成生成项目“C:\Users\lenovo\Desktop\数据结构代码\Chap8_ExtSort_runable\ReplaceSelection\replaceSelection.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.12

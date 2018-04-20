@@ -1,0 +1,35 @@
+﻿生成启动时间为 2017/11/27 15:54:19。
+     1>项目“C:\Users\lenovo\Desktop\数据结构代码\Chap5_Tree_runable\TreeProject.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\visualstudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\TreeProject.pch" /Fo".\Debug\\" /Fd".\Debug\vc110.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt ParTree.cpp ParTreeNode.cpp TreeProject.cpp TreeProjectView.cpp
+         ParTree.cpp
+         正在生成代码...
+         正在编译...
+         TreeProjectView.cpp
+         TreeProject.cpp
+     1>c:\users\lenovo\desktop\数据结构代码\chap5_tree_runable\treeproject.cpp(60): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+                 c:\visualstudio\vc\atlmfc\include\afxwin.h(5361) : 参见“CWinApp::Enable3dControls”的声明
+         ParTreeNode.cpp
+         正在生成代码...
+     1>c:\users\lenovo\desktop\数据结构代码\chap5_tree_runable\tree.h(346): warning C4715: “Tree<ATL::CStringT<char,StrTraitMFC_DLL<char,ATL::ChTraitsCRT<char> > > >::Parent”: 不是所有的控件路径都返回值
+       Link:
+         C:\visualstudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\TreeProject.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:C:\visualstudio\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:".\Debug\TreeProject.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\TreeProject.lib" /MACHINE:X86 /SAFESEH .\Debug\TreeProject.res
+         .\Debug\DualTagTreeNode.obj
+         .\Debug\LeftLinkTreeNode.obj
+         .\Debug\MainFrm.obj
+         .\Debug\ParTree.obj
+         .\Debug\ParTreeNode.obj
+         .\Debug\StdAfx.obj
+         .\Debug\Tree.obj
+         .\Debug\TreeNode.obj
+         .\Debug\TreeProject.obj
+         .\Debug\TreeProjectDoc.obj
+         .\Debug\TreeProjectView.obj
+         TreeProject.vcxproj -> C:\Users\lenovo\Desktop\数据结构代码\Chap5_Tree_runable\.\Debug\TreeProject.exe
+       BscMake:
+         C:\visualstudio\VC\bin\bscmake.exe /nologo /o".\Debug\TreeProject.bsc" .\Debug\DualTagTreeNode.sbr .\Debug\LeftLinkTreeNode.sbr .\Debug\MainFrm.sbr .\Debug\ParTree.sbr .\Debug\ParTreeNode.sbr .\Debug\StdAfx.sbr .\Debug\Tree.sbr .\Debug\TreeNode.sbr .\Debug\TreeProject.sbr .\Debug\TreeProjectDoc.sbr .\Debug\TreeProjectView.sbr
+     1>已完成生成项目“C:\Users\lenovo\Desktop\数据结构代码\Chap5_Tree_runable\TreeProject.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.79
